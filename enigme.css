@@ -1,0 +1,143 @@
+body{
+    background-image: url(Illustrations/All\ pages/arriere_plan.png);
+   
+    margin: auto;
+    text-align: justify;
+    padding: 40px;
+    /*width: 800px ;*/
+    /*background-image: url(Illustrations/Enigme/Pantherenigme1.png);*/
+    background-size: contain;
+    color: white;
+    font-family: sans-serif;
+
+}
+footer{
+    list-style-type: none;
+    background-color: #4f16aa;
+    text-align: justify;
+    padding: 10px;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+#okoye{
+    width: 500px;
+    height: 500px;
+
+}
+
+#rep{
+    color: white;
+    width: 400px;
+    height: 30px;
+    /*border: none;*/
+    border-radius: 20px 20px;
+    padding: 2%;
+    /*border-bottom: 2px solid white;*/
+    background: none;
+}
+#submit{
+    text-align: center;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px 30px;
+    padding: 1%;
+    background: none;
+    background-color: pink;
+    color: black;
+}
+.envoyer{
+    text-align: center;
+    margin-right: 800px;
+}
+.para1{
+    float: left;
+}
+.para2{
+    float: right;
+    margin-top: -500px;
+}
+.para3{
+    text-align: justify;
+    padding: 5px;
+    float: right;
+    margin-top: -300px;
+    margin-right: 90px;
+}
+.para4{
+    clear: both;
+}
+.fond1{
+    width: 105%;
+}
+.savoir{
+    margin-left: 1px;
+    margin-right: 10px;
+    float: right;
+    text-align: center;
+}
+.connaitre{
+    margin-right: 50px;
+}
+.traduction{
+    float: left;
+}
+.reponse{
+    clear: both;
+}
+#bulle{
+    width: 200px;
+    height: 200px;
+}
+#sayma{
+    width: 80px;
+    height: 20px;
+}
+ .photo2{
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 55px;
+}
+.page, .contact{
+    clear: both;
+}
+.defi{
+    background-image: url(Illustrations/Enigme/Pantherenigme2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+@font-face {
+    font-family: "wakanda";
+    src: url(wakanda-forever-regular-maisfontes.1068/wakanda-forever-regular.ttf);
+}
+@font-face{
+    font-family: "beyno";
+    src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
+}
+span{
+    font-family: "wakanda";
+}
+h1{
+    width: 600px;
+    font-size: 250%;
+    margin-left: 200px;
+    font-family: "beyno";
+}
+h2{
+    font-family: "wakanda";
+}
+.fond2{
+    width: 2px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -150px;
+}
+.formulaire{
+    float: left;
+}

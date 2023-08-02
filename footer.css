@@ -1,0 +1,56 @@
+footer{
+    background-image: url(Illustrations/All\ pages/back_footer.png);
+    text-align: justify;
+    padding: 20px;
+}
+
+#bulle{
+    width: 200px;
+    height: 200px;
+}
+#sayma{
+    width: 80px;
+    height: 20px;
+}
+.photo{
+    margin-left: 200px;
+    width: 800px;
+}
+ .photo2{
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 55px;
+}
+.page, .contact{
+    clear: both;
+
+}
+.contact, .taille2{
+    float: right;
+    margin-right: 200px;
+    margin-top: -200px;
+}
+.icon{
+    float: right;
+    margin-right: 100px;
+    margin-top: -170px;
+}
+.page{
+    float: left;
+    margin-left: 500px;
+    margin-top: -220px;
+}
+.politique{
+    clear: both;
+    margin-left: 500px;
+}
+a{
+    color: white;
+}
+.taille1{
+    font-size: 120%;
+}
+.taille2{
+    font-size:140% ;
+    margin-right: 140px;
+}

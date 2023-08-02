@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+    font-family: "beyno";
+
+}
+@font-face{
+    font-family: "beyno";
+    src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
+}

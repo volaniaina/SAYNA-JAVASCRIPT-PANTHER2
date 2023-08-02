@@ -1,0 +1,87 @@
+body{
+    background-image: url(Illustrations/All\ pages/arriere_plan.png);
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    background-size: contain;
+    color: white;
+    font-family: sans-serif;
+    
+
+}
+.part2{
+    background-image: url('Illustrations/Wakanda/Pantherwakanda2.png');
+    background-size: 95%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+footer{
+   
+    clear: both;
+}
+.section1{
+    clear: both;
+    text-align: justify;
+    background-image: url(Illustrations/Wakanda/Pantherwakanda1.png);
+    background-size: 120% 120%;
+    background-position: center; 
+    width: 1600px;
+    height: 500px;
+    margin: 0%;
+    padding: 60px;
+      
+}
+#video{
+    background-color: blue;
+    color: white;
+}
+.gauche{
+    width: 500px;
+    float: left;
+    writing-mode: horizontal-tb;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 50px;
+    padding-inline-end: 2em;
+    padding-block-start: 2px;
+    text-align: justify;
+}
+.droite{
+    float: right;
+    width: 500px;
+    writing-mode: horizontal-tb;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 70px;
+    padding-inline-end: 2em;
+    padding-block-start: 2px;
+    text-align: justify;
+}
+@font-face {
+    font-family: "panthera";
+    src: url(panthera/panthera.otf);
+}
+@font-face {
+    font-family:"wakanda" ;
+    src: url(wakanda-forever-regular-maisfontes.1068/wakanda-forever-regular.ttf);
+}
+@font-face{
+    font-family: "beyno";
+    src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
+}
+
+h1{
+    color: rgb(190, 158, 219);
+    font-family: "panthera";
+    font-size: 40px;
+}
+h3{
+    font-family: "beyno";
+    color: rgb(190, 158, 219);
+}
+h2{
+    font-family: "wakanda";
+    color: rgb(190, 158, 219);
+}

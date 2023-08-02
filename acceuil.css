@@ -1,0 +1,181 @@
+body{
+    background-image: url(Illustrations/All\ pages/arriere_plan.png);
+    
+    text-align: justify;
+    
+    background-size: contain;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 20px;
+    padding-right: 10px;
+
+}
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+#tchalla{
+    width: 400px;
+    height: 300px;
+    float: right;
+}
+.presentation{
+    clear: both;
+}
+figure{
+    width: 100%x;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+    
+}
+#killmonger{
+    width: 200px;
+    height: 400px;
+}
+.figcaption1{
+    width: 2000px;
+    height: 300px;
+    text-align: justify;
+    padding: 20px;
+    
+}
+.aide{
+    /*background-image: url(Illustrations/Accueil/Pantherhome7.png);*/
+    background-size: cover;
+    width: 400px;
+    margin-left: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 100px 100px;
+    border: solid 2px;
+}
+.formulaire{
+    background-image: url(Illustrations/Accueil/Pantherhome7.png);
+    padding-left: 200px;
+    padding-bottom: 20px;
+}
+.centrer{
+    text-align: center;
+}
+
+#nom{
+    color: white;
+    width: 400px;
+    height: 30px;
+    border-radius: 20px 20px;
+    background: none;
+    padding: 10px;
+}
+#email{
+    color: white;
+    width: 400px;
+    height: 30px;
+    border-radius: 20px 20px;
+    background: none;
+    padding: 10px;
+}
+#message{
+    color: white;
+    width: 400px;
+    height: 150px;
+    border-radius: 20px 20px;
+    background: none;
+    padding: 10px;
+}
+#envoyer{
+    text-align: center;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px 30px;
+    padding: 1%;
+    background: none;
+    background-color: pink;
+    color: black;
+    
+}
+#prince{
+    width: 200px;
+    height: 300px;
+}
+@font-face {
+    font-family: "panthera";
+    src: url(panthera/panthera.otf);
+}
+@font-face{
+    font-family: "beyno";
+    src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
+}
+
+h1{
+    color: rgb(190, 158, 219);
+    font-family: "panthera";
+    font-size: 40px;
+}
+h2{
+    font-family: "beyno";
+    color: rgb(190, 158, 219);
+}
+footer{
+    background-color: #4f16aa;
+    text-align: justify;
+    padding: 10px;
+
+}
+.Tchalla{
+    background-color: white;
+    color: black;
+    width: 400px;
+    height: 800px;
+    padding: 40px;
+    float: right;
+    margin-top: -140%;
+    border-radius: 20px 20px;
+    margin-right: 50px;
+}
+.Tchalla img{
+    width: 300%;
+    position: relative;
+    margin-top: -40%;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 50px;
+
+}
+#prince{
+    width: 90%;
+    height: 70%;
+}
+.partie1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 600px;
+    text-align: justify;
+    margin-right: 600px;
+}
+h3{
+    text-align: center;
+    margin-left: 5px;
+
+}
+.panthere{
+    float: right;
+    margin-top: -700px;
+}
+button{
+    border: solid 1px;
+    background-color: blue;
+    height: 30px;
+
+}
+.description{
+    margin-left: 40px;
+}
