@@ -120,25 +120,23 @@ nav{
     font-family: "beyno";
     src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
 }
-span{
+/*span{
     font-family: "wakanda";
-}
+}*/
 h1{
     width: 600px;
     font-size: 250%;
     margin-left: 200px;
     font-family: "beyno";
 }
-.span1{
+.span2{
     font-family: "beyno";
-}
-.fidelite{
-    font-family: "wakanda";
-    font-size: 130%;
-}
-.enigme{
     color: blueviolet;
-    font-size: 150%;
+   
+}
+.enigme2{
+        color: blueviolet;
+        font-size: 150%;
 }
 .fond2{
     width: 2px;
