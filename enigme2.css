@@ -67,21 +67,32 @@ nav{
     text-align: justify;
     padding: 5px;
     float: right;
-    margin-top: -300px;
+    margin-top: -350px;
     margin-right: 90px;
+    font-size: 80%;
 }
 .para4{
     clear: both;
+}
+.anectode{
+    font-size: 80%;
 }
 .fond1{
     width: 105%;
 }
 .savoir{
     margin-left: 1px;
-    margin-right: 10px;
+    margin-right: 100px;
+    margin-top: -50px;
     float: right;
-    text-align: center;
+    text-align:justify;
+    font-size: 80%;
 }
+.sav{
+    text-align: center;
+    margin-right: 100px;
+}
+
 .connaitre{
     margin-right: 50px;
 }
@@ -90,6 +101,7 @@ nav{
 }
 .reponse{
     clear: both;
+    font-size: 80%;
 }
 #bulle{
     width: 200px;
@@ -141,8 +153,9 @@ h1{
 .fond2{
     width: 2px;
     float: right;
-    margin-right: 150px;
-    margin-top: -150px;
+    margin-right: 200px;
+    margin-top: -220px;
+   
 }
 .formulaire{
     float: left;

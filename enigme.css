@@ -67,14 +67,28 @@ nav{
     text-align: justify;
     padding: 5px;
     float: right;
-    margin-top: -300px;
+    margin-top: -380px;
     margin-right: 90px;
+    font-size: 80%;
 }
 .para4{
     clear: both;
 }
+.para5{
+    text-align: justify;
+    font-size: 80%;
+    margin-right: 150px;
+    margin-top: -90px;
+   
+}
+.ptitre{
+    font-size: 90%;
+    text-align: center;
+    margin-right: 200px;
+}
+
 .fond1{
-    width: 105%;
+    width: 110%;
 }
 .savoir{
     margin-left: 1px;
@@ -140,11 +154,14 @@ h1{
     color: blueviolet;
     font-size: 150%;
 }
+.intro{
+    font-size: 80%;
+}
 .fond2{
-    width: 2px;
+    width: 9%;
     float: right;
     margin-right: 150px;
-    margin-top: -150px;
+    margin-top: -250px;
 }
 .formulaire{
     float: left;
